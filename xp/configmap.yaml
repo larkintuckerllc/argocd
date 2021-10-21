@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: xp
-  namespace: xp
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: dm
-  namespace: dm
-data:
-  hello: world!

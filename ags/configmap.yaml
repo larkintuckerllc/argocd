@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ags
-  namespace: ags
-data:
-  hello: world!

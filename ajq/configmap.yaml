@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ajq
-  namespace: ajq
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: akp
-  namespace: akp
-data:
-  hello: world!

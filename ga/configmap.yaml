@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ga
-  namespace: ga
-data:
-  hello: world!

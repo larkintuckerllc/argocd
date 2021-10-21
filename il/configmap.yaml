@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: il
-  namespace: il
-data:
-  hello: world!

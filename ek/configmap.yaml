@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ek
-  namespace: ek
-data:
-  hello: world!

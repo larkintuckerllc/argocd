@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: acl
-  namespace: acl
-data:
-  hello: world!

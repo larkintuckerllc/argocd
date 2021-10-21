@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aeq
-  namespace: aeq
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: eu
-  namespace: eu
-data:
-  hello: world!

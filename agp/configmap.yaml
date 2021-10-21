@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: agp
-  namespace: agp
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: agj
-  namespace: agj
-data:
-  hello: world!

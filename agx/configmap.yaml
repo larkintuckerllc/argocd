@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: agx
-  namespace: agx
-data:
-  hello: world!

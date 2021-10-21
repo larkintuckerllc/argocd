@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: qz
-  namespace: qz
-data:
-  hello: world!

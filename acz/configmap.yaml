@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: acz
-  namespace: acz
-data:
-  hello: world!

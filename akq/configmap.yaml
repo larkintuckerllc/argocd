@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: akq
-  namespace: akq
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: vr
-  namespace: vr
-data:
-  hello: world!

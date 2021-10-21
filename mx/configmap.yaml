@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: mx
-  namespace: mx
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: pm
-  namespace: pm
-data:
-  hello: world!

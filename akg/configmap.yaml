@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: akg
-  namespace: akg
-data:
-  hello: world!

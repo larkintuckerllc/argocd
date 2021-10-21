@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aix
-  namespace: aix
-data:
-  hello: world!

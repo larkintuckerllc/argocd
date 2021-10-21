@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ach
-  namespace: ach
-data:
-  hello: world!

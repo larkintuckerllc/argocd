@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: rq
-  namespace: rq
-data:
-  hello: world!

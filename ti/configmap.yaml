@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ti
-  namespace: ti
-data:
-  hello: world!

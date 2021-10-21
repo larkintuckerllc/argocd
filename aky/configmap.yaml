@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aky
-  namespace: aky
-data:
-  hello: world!

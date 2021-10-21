@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aau
-  namespace: aau
-data:
-  hello: world!

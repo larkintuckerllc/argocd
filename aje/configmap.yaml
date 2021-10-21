@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aje
-  namespace: aje
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ts
-  namespace: ts
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: fx
-  namespace: fx
-data:
-  hello: world!

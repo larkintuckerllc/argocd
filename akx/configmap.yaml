@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: akx
-  namespace: akx
-data:
-  hello: world!

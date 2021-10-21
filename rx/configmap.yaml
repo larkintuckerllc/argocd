@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: rx
-  namespace: rx
-data:
-  hello: world!

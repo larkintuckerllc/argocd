@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ec
-  namespace: ec
-data:
-  hello: world!

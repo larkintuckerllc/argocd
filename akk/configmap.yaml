@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: akk
-  namespace: akk
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aij
-  namespace: aij
-data:
-  hello: world!

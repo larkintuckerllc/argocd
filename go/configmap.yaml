@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: go
-  namespace: go
-data:
-  hello: world!

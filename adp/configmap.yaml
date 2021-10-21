@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: adp
-  namespace: adp
-data:
-  hello: world!

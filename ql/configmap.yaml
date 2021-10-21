@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ql
-  namespace: ql
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: gl
-  namespace: gl
-data:
-  hello: world!

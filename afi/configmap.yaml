@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: afi
-  namespace: afi
-data:
-  hello: world!

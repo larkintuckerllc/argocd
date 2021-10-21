@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: jg
-  namespace: jg
-data:
-  hello: world!

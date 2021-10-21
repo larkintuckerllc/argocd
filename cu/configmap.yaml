@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: cu
-  namespace: cu
-data:
-  hello: world!

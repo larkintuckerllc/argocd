@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: xb
-  namespace: xb
-data:
-  hello: world!

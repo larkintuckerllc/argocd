@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ajo
-  namespace: ajo
-data:
-  hello: world!

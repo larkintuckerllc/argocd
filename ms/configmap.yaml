@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ms
-  namespace: ms
-data:
-  hello: world!

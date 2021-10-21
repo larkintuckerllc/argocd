@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ake
-  namespace: ake
-data:
-  hello: world!

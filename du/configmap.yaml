@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: du
-  namespace: du
-data:
-  hello: world!

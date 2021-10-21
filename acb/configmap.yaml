@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: acb
-  namespace: acb
-data:
-  hello: world!

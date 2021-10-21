@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: afo
-  namespace: afo
-data:
-  hello: world!

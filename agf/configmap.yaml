@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: agf
-  namespace: agf
-data:
-  hello: world!

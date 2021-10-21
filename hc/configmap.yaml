@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: hc
-  namespace: hc
-data:
-  hello: world!

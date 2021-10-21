@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: gp
-  namespace: gp
-data:
-  hello: world!

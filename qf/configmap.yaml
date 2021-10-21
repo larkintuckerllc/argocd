@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: qf
-  namespace: qf
-data:
-  hello: world!

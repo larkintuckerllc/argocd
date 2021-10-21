@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: kq
-  namespace: kq
-data:
-  hello: world!

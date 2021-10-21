@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: eq
-  namespace: eq
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ps
-  namespace: ps
-data:
-  hello: world!

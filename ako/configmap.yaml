@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ako
-  namespace: ako
-data:
-  hello: world!

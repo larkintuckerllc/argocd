@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: nq
-  namespace: nq
-data:
-  hello: world!

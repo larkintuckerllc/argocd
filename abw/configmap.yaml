@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: abw
-  namespace: abw
-data:
-  hello: world!

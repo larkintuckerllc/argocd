@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aja
-  namespace: aja
-data:
-  hello: world!

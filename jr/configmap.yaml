@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: jr
-  namespace: jr
-data:
-  hello: world!

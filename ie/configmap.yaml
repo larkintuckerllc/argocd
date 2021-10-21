@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ie
-  namespace: ie
-data:
-  hello: world!

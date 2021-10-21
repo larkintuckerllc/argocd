@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aq
-  namespace: aq
-data:
-  hello: world!

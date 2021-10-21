@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aip
-  namespace: aip
-data:
-  hello: world!

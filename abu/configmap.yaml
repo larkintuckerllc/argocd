@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: abu
-  namespace: abu
-data:
-  hello: world!

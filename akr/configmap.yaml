@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: akr
-  namespace: akr
-data:
-  hello: world!

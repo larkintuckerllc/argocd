@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ns
-  namespace: ns
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ahm
-  namespace: ahm
-data:
-  hello: world!

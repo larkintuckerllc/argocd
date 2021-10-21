@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: akd
-  namespace: akd
-data:
-  hello: world!

@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aeh
-  namespace: aeh
-data:
-  hello: world!

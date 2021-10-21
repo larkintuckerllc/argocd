@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: ny
-  namespace: ny
-data:
-  hello: world!

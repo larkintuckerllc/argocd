@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: lx
-  namespace: lx
-data:
-  hello: world!

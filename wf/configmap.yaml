@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: wf
-  namespace: wf
-data:
-  hello: world!

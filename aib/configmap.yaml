@@ -1,7 +1,0 @@
-apiVersion: v1 
-kind: ConfigMap 
-metadata:
-  name: aib
-  namespace: aib
-data:
-  hello: world!
