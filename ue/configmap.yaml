@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: ue
+  namespace: ue
+data:
+  hello: world!

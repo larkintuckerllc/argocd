@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: uq
+  namespace: uq
+data:
+  hello: world!

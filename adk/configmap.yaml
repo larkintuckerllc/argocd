@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: adk
+  namespace: adk
+data:
+  hello: world!

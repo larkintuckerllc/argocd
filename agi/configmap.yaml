@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: agi
+  namespace: agi
+data:
+  hello: world!

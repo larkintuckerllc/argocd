@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: aby
+  namespace: aby
+data:
+  hello: world!

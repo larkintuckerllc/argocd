@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: aef
+  namespace: aef
+data:
+  hello: world!

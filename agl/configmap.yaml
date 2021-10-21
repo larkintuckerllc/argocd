@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: agl
+  namespace: agl
+data:
+  hello: world!

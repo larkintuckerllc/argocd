@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: acy
+  namespace: acy
+data:
+  hello: world!

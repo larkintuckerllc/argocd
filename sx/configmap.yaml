@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: sx
+  namespace: sx
+data:
+  hello: world!

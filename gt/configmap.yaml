@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: gt
+  namespace: gt
+data:
+  hello: world!

@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: tw
+  namespace: tw
+data:
+  hello: world!

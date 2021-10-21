@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: ol
+  namespace: ol
+data:
+  hello: world!

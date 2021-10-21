@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: qr
+  namespace: qr
+data:
+  hello: world!

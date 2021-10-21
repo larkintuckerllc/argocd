@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: qo
+  namespace: qo
+data:
+  hello: world!

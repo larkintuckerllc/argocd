@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: qt
+  namespace: qt
+data:
+  hello: world!

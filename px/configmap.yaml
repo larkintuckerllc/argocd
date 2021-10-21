@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: px
+  namespace: px
+data:
+  hello: world!

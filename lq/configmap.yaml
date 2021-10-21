@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: lq
+  namespace: lq
+data:
+  hello: world!

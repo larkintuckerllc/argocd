@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: aw
+  namespace: aw
+data:
+  hello: world!

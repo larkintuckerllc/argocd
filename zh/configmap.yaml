@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: zh
+  namespace: zh
+data:
+  hello: world!

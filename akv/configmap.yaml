@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: akv
+  namespace: akv
+data:
+  hello: world!

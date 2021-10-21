@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: qq
+  namespace: qq
+data:
+  hello: world!

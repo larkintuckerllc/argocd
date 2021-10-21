@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: adu
+  namespace: adu
+data:
+  hello: world!

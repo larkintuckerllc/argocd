@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: np
+  namespace: np
+data:
+  hello: world!

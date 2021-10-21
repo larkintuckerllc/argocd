@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: yi
+  namespace: yi
+data:
+  hello: world!

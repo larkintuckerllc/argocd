@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: uo
+  namespace: uo
+data:
+  hello: world!

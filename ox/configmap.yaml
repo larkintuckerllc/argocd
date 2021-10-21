@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: ox
+  namespace: ox
+data:
+  hello: world!

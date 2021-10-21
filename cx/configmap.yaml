@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: cx
+  namespace: cx
+data:
+  hello: world!

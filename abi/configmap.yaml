@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: abi
+  namespace: abi
+data:
+  hello: world!

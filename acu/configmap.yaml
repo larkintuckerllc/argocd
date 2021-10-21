@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: acu
+  namespace: acu
+data:
+  hello: world!

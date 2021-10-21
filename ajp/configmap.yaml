@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: ajp
+  namespace: ajp
+data:
+  hello: world!

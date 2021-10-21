@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: ea
+  namespace: ea
+data:
+  hello: world!

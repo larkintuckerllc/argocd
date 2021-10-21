@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: tp
+  namespace: tp
+data:
+  hello: world!

@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: kr
+  namespace: kr
+data:
+  hello: world!

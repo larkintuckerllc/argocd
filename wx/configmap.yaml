@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: wx
+  namespace: wx
+data:
+  hello: world!

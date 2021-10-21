@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: agb
+  namespace: agb
+data:
+  hello: world!

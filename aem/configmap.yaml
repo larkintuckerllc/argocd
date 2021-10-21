@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: aem
+  namespace: aem
+data:
+  hello: world!

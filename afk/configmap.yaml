@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: afk
+  namespace: afk
+data:
+  hello: world!

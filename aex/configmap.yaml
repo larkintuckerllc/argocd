@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: aex
+  namespace: aex
+data:
+  hello: world!
