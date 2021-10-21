@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: aci
+  namespace: aci
+data:
+  hello: world!

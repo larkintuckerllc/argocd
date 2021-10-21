@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: afm
+  namespace: afm
+data:
+  hello: world!

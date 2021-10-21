@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: aeg
+  namespace: aeg
+data:
+  hello: world!

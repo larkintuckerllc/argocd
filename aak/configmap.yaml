@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: aak
+  namespace: aak
+data:
+  hello: world!

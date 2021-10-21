@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: aia
+  namespace: aia
+data:
+  hello: world!

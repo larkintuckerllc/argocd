@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: acr
+  namespace: acr
+data:
+  hello: world!

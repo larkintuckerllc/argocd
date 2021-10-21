@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: ahl
+  namespace: ahl
+data:
+  hello: world!

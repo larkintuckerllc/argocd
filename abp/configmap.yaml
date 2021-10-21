@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: abp
+  namespace: abp
+data:
+  hello: world!

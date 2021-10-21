@@ -1,0 +1,7 @@
+apiVersion: v1 
+kind: ConfigMap 
+metadata:
+  name: ahp
+  namespace: ahp
+data:
+  hello: world!
